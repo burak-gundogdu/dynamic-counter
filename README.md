@@ -1,44 +1,51 @@
-# dynamic-counter
+# Dynamic Counter
 A simple modular Python counter with custom user input and step values.
 
-This is a simple Python program that counts from 0 up to any number entered by the user, using any step value.
-The purpose of this project is to practice basic Python concepts such as functions, loops, user input, and input validation.
-What the program does
-Asks the user to enter a limit number
 
-Asks the user to enter a step value
+- This is a simple Python program that counts from 0 up to any number entered by the user, using any step value.
+- The purpose of this project is to practice basic Python concepts such as functions, loops, user input, and input validation.
 
-Prints all numbers from 0 up to the limit using the given step
+# What the program does
 
-Checks whether the input is valid
+- Asks the user to enter a limit number
 
-Uses functions to keep the code clean and organized
+- Asks the user to enter a step value
 
-How to run
-Install Python on your computer
+- Prints all numbers from 0 up to the limit using the given step
 
-Download or clone this repository
+- Checks whether the input is valid
 
-Open a terminal in the project folder
+- Uses functions to keep the code clean and organized
 
-Run the following command:
+# How to run
 
-python counter.py
+- Install Python on your computer
 
-Enter the numbers when asked
+- Download or clone this repository
 
-Files
-counter.py — main program file
+- Open a terminal in the project folder
 
-README.md — project explanation
+- Run the following command:
 
-Possible future improvements
-Adding reverse counting
+- python counter.py
 
-Adding animated counting
 
-Creating a simple graphical interface
+- Enter the numbers when asked
 
-Creating a web version using Flask
+# Files
 
-Saving results to a log file
+- counter.py — main program file
+
+- README.md — project explanation
+
+# Possible future improvements
+
+- Adding reverse counting
+
+- Adding animated counting
+
+- Creating a simple graphical interface
+
+- Creating a web version using Flask
+
+- Saving results to a log file
